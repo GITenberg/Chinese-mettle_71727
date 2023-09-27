@@ -1,0 +1,31 @@
+_repo: Chinese-mettle_71727
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Sze, Sao-Ke Alfred
+    gutenberg_agent_id: '56360'
+    url: http://www.gutenberg.org/2009/agents/56360
+creator:
+  author:
+    agent_name: Kemp, Emily Georgiana
+    gutenberg_agent_id: '56359'
+    url: http://www.gutenberg.org/2009/agents/56359
+description: ''
+gutenberg_issued: '2023-09-25'
+identifiers:
+  gutenberg: '71727'
+language: en
+pgterms:marc904: https://archive.org/details/chinesemettle00kemp_0
+pgterms:marc905: 20210425092157kemp
+pgterms:marc906: '1921'
+pgterms:marc907: ca
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aToronto :$bHodder and Stoughton, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Chinese mettle
+url: http://www.gutenberg.org/ebooks/71727
