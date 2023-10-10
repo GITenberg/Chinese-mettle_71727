@@ -5,12 +5,17 @@ contributor:
     agent_name: Sze, Sao-Ke Alfred
     gutenberg_agent_id: '56360'
     url: http://www.gutenberg.org/2009/agents/56360
+covers:
+- cover_type: archival
+  image_path: 71727-h/images/cover.jpg
 creator:
   author:
     agent_name: Kemp, Emily Georgiana
     gutenberg_agent_id: '56359'
     url: http://www.gutenberg.org/2009/agents/56359
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71727#Chinese-mettle
 gutenberg_issued: '2023-09-25'
 identifiers:
   gutenberg: '71727'
